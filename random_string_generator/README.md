@@ -23,9 +23,8 @@ This Flutter application demonstrates the use of the BLoC (Business Logic Compon
 ### Installation and Running
 
 1. Clone the repository: `git clone https://github.com/jamydevelop/Flutter-Android-RandomString-API.git`
-2. Navigate to the project directory: `cd random-string-generator`
-3. Install dependencies: `flutter pub get`
-4. Run the app: `flutter run`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
 
 ## Dependencies
 
