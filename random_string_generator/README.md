@@ -1,4 +1,4 @@
-# Random String Generator
+# Random String Generator by John Ace Magno (jamagno.27@gmail.com) | 09477677426
 
 This Flutter application demonstrates the use of the BLoC (Business Logic Component) pattern to fetch and display random strings from an API. It showcases state management, API integration, and responsive UI design.
 
